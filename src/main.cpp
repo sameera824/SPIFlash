@@ -28,6 +28,4 @@ int main() {
     spif.deinit();
 
     return 0;
-
-    // todo :: nothing
 }
